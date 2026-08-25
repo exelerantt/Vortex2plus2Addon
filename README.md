@@ -1,5 +1,5 @@
 >[!WARNING]
->This repository has been a archived due to the fork not being maintained anymoer, please use [the primary repository](https://github.com/inuk84/Vortex2plus2) instead, as the installation for this project is broken.
+>This repository has been a archived due to the fork not being maintained anymore, please use [the primary repository](https://github.com/inuk84/Vortex2plus2) instead, as the installation for this project is broken.
 
 Vortex2+2 is an extension for [vortex](https://vortex.towerstats.com/) to add many more features
 Please join the [Vortex2+2 & AIS discord server](https://discord.gg/3Rphp3duKR) to get early releases and sneak peaks, and submit suggestions for vortex2+2 and AIS!
